@@ -4,14 +4,14 @@ Esse projeto trás alguns exemplos de algoritmos de jogos simples para ajudar in
 
 ## Jogos implementados:
 
-- **Cara ou Coroa**
-- ~~Par ou impar~~
+- **[Cara ou Coroa](https://github.com/acampamentodev/algoritmos-jogos-simples/blob/main/php/1_cara_ou_coroa.php)**
+- **[Par ou impar](https://github.com/acampamentodev/algoritmos-jogos-simples/blob/main/php/2_par_ou_impar.php)**
 - ~~Adivinhe o número~~
 - ~~Pedra, papel ou tesoura~~
 
 ## Os algoritmos estão disponíveis nas linguagens:
 
-- **PHP**
+- **[PHP](https://github.com/acampamentodev/algoritmos-jogos-simples/tree/main/php)**
 - ~~Javascript~~
 - ~~Python~~
 - ~~Java~~
