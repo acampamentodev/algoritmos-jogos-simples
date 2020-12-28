@@ -2,7 +2,7 @@
 
 Esse projeto trás alguns exemplos de algoritmos de jogos simples para ajudar iniciantes em programação.
 
-## Jogos implementados:
+## Jogos implementados em PHP:
 
 - **[Cara ou Coroa](https://github.com/acampamentodev/algoritmos-jogos-simples/blob/main/php/1_cara_ou_coroa.php)**
 - **[Par ou impar](https://github.com/acampamentodev/algoritmos-jogos-simples/blob/main/php/2_par_ou_impar.php)**
