@@ -6,8 +6,8 @@ Esse projeto trás alguns exemplos de algoritmos de jogos simples para ajudar in
 
 - **[Cara ou Coroa](https://github.com/acampamentodev/algoritmos-jogos-simples/blob/main/php/1_cara_ou_coroa.php)**
 - **[Par ou impar](https://github.com/acampamentodev/algoritmos-jogos-simples/blob/main/php/2_par_ou_impar.php)**
+- **[Pedra, papel ou tesoura](https://github.com/acampamentodev/algoritmos-jogos-simples/blob/main/php/3_pedra_papel_tesoura.php)**
 - ~~Adivinhe o número~~
-- ~~Pedra, papel ou tesoura~~
 
 ## Os algoritmos estão disponíveis nas linguagens:
 
